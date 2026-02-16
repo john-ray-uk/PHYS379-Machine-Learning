@@ -35,9 +35,6 @@ class Regression:
         l = np.mean((Y-(w*X + b))**2)
         w = w - trainingRate*dLdW
         b = b - trainingRate*dLdB
-        # Appends these to a list, for debugging purposes (can remove)
-        wList.append(w)
-        bList.append(b)
     output = w*N + b
     return output,l,w,b
   # Standard Polynomial Regression function
