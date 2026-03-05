@@ -6,12 +6,15 @@ If any of you have any questions about how GitHub works or anything, just let me
 > -> John
 <h1>Current plans / aims:</h1>
 
-- [ ] Setup a virtual environment to run code
+- [x] Setup a virtual environment to run code
 - [x] Develop Linear Regression
 - [x] Develop Polynomial Regression
+- [x] Develop Logarithmic Regression
 - [x] Develop a basic Neural Network
+- [x] Develop a convolutional Neural Network
+- [x] Create a .exe application (for the fun of it)
 - [ ] Combine into a Neural Network with both regression types
-- [ ] Test Network on YFinance data
+- [x] Test Network on YFinance data
 - [ ] Include additional parameters (such as news data)
 - [ ] Begin to write a report
 
